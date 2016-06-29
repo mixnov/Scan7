@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/xml/config.xml"
+    }
+]

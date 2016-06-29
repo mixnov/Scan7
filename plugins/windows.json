@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "scan"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "scan"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "scan"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "scan"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "scan"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "scan"
+        },
+        "net.roughshod.plugins.barcodescanner": {
+            "PACKAGE_NAME": "scan"
+        }
+    },
+    "dependent_plugins": {}
+}

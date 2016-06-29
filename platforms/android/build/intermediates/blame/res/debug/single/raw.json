@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/raw/beep.ogg"
+    }
+]

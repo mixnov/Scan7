@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/capture.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/layout-ldpi/capture.xml"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/capture.xml",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/layout-ldpi/capture.xml"
+    }
+]

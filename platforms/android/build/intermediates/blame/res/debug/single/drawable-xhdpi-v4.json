@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/launcher_icon.png",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/drawable-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/launcher_icon.png",
+        "source": "/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/res/drawable-xhdpi/launcher_icon.png"
+    }
+]

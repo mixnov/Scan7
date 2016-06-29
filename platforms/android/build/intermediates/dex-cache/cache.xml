@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f09e39591515758f782183bc2844b7e2106281d4">
+        <dex dex="/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_bcddb32fa80128ab78be7edc1a97f2a4fb9aaa3f.jar" />
+    </item>
+    <item
+        jar="/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="cd775496aa3cfd66d01119ef4da1178dde6703dc">
+        <dex dex="/home/mikhail/PhoneGap/ionic/abc/scan7/platforms/android/build/intermediates/pre-dexed/debug/com.google.zxing.client.android.captureactivity_96b3848814e5a5e0b3c8cf61da31c63300df09f0.jar" />
+    </item>
+    <item
+        jar="/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="68604bb65816aa7f14434deea73cfc3ef708f9c6">
+        <dex dex="/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_5e81b51fa411b9e78ec67a5a6658815073354409.jar" />
+    </item>
+    <item
+        jar="/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="cd775496aa3cfd66d01119ef4da1178dde6703dc">
+        <dex dex="/home/mikhail/PhoneGap/ionic/abc/scan5/platforms/android/build/intermediates/pre-dexed/debug/com.google.zxing.client.android.captureactivity_58116d3424996b7855f8107d576e4981dfcc985e.jar" />
+    </item>
+
+</items>

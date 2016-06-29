@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        },
+        "net.roughshod.plugins.barcodescanner": {
+            "PACKAGE_NAME": "nf.co.novomic.scan"
+        }
+    },
+    "dependent_plugins": {}
+}
